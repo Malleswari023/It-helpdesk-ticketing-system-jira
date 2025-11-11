@@ -1,0 +1,54 @@
+IT Helpdesk Ticketing System – Project Documentation
+1. Project Title
+IT Helpdesk Ticketing System using Jira
+
+2. Objective
+To simulate how IT support teams create, track, and resolve tickets using Agile Scrum in Jira.
+
+3. Tools Used
+Jira Software (Team-Managed)
+Scrum Board
+Issue Types: Epic, Story, Task, Bug, Sub-task
+
+4. Work Done
+Created a Scrum-based project in Jira
+Added Epic, User Stories, Tasks, Subtasks, and Bugs
+Created Sprint and moved issues from Backlog → To-Do → In-Progress → Done
+Created Dashboard and charts (Created vs Resolved, Issue statistics)
+
+5. Issue Tracking
+Epic:
+IT Helpdesk Ticketing System
+
+User Stories:
+User Registration
+User Login
+Product Listing
+View Product Details
+Add to Cart
+Password Reset Email Template
+Ticket Submission & Status Tracking
+User Logout
+
+Bug: 
+Ticket is not getting submitted
+
+6. Sprint
+Sprint Goal: 
+Complete ticket creation
+All user stories moved to Done and sprint was closed
+
+7.screenshots folder:
+Backlog
+Active Sprint
+Board View
+Created Issues
+Dashboard
+
+8. Outcome
+This project shows how an IT team:
+Handles tickets
+Assigns work
+Tracks bugs
+Uses Scrum workflow
+Completes sprints
